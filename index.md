@@ -7,3 +7,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Listitem 1
 * Listitem 2
 * Listitem 3
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
