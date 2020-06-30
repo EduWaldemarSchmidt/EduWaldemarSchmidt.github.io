@@ -10,3 +10,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
+
+<img src="https://cdn.pixabay.com/photo/2012/05/04/10/17/sun-47083_1280.png">
